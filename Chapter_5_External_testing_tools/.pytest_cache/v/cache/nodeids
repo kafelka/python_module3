@@ -1,0 +1,6 @@
+[
+  "test_calculatorApp.py::TestCalculator::test_add",
+  "test_calculatorApp.py::TestCalculator::test_divide",
+  "test_calculatorApp.py::TestCalculator::test_multiply",
+  "test_calculatorApp.py::TestCalculator::test_subtr"
+]
